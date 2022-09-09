@@ -1,0 +1,17 @@
+body
+    {background-color:blueviolet;
+    font-family:monotype corsiva;
+     font-size:32px;
+    text-align:center;
+}
+h1{
+    color:powderblue;
+    margin:15px ;
+    border:5px orangered 
+}
+p{
+    color:peachpuff;
+border:5px rgb(21, 255, 0)
+}
+h2{color:  orange;
+}
